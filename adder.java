@@ -6,7 +6,6 @@ public class adder {
         }
             System.out.println(sum);
            
-
         
     }
 }
